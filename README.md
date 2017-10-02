@@ -26,4 +26,11 @@ After completing this assignment students should be able to:
 * Work with command-line arguments
 * Use the Locale.forLanguageTag(String) factory method, which was introduced in the Java SE 7 release.
 
+## How to test/grade your programming assignment?
+
+* git clone https://github.com/AnadoluUniversityCeng/bim207-pa1-Pinokyo
+* cd bim207-pa1-Pinokyo
+* javac Sort.java
+* java Sort friends.txt tr-TR
+* FC sorted.txt expected.txt
 
